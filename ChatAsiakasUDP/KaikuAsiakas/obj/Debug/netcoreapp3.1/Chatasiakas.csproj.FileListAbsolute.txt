@@ -1,0 +1,13 @@
+C:\Users\sampo\source\repos\ChatAsiakasUDP\KaikuAsiakas\obj\Debug\netcoreapp3.1\Chatasiakas.csprojAssemblyReference.cache
+C:\Users\sampo\source\repos\ChatAsiakasUDP\KaikuAsiakas\obj\Debug\netcoreapp3.1\Chatasiakas.AssemblyInfoInputs.cache
+C:\Users\sampo\source\repos\ChatAsiakasUDP\KaikuAsiakas\obj\Debug\netcoreapp3.1\Chatasiakas.AssemblyInfo.cs
+C:\Users\sampo\source\repos\ChatAsiakasUDP\KaikuAsiakas\obj\Debug\netcoreapp3.1\Chatasiakas.csproj.CoreCompileInputs.cache
+C:\Users\sampo\source\repos\ChatAsiakasUDP\KaikuAsiakas\bin\Debug\netcoreapp3.1\Chatasiakas.exe
+C:\Users\sampo\source\repos\ChatAsiakasUDP\KaikuAsiakas\bin\Debug\netcoreapp3.1\Chatasiakas.deps.json
+C:\Users\sampo\source\repos\ChatAsiakasUDP\KaikuAsiakas\bin\Debug\netcoreapp3.1\Chatasiakas.runtimeconfig.json
+C:\Users\sampo\source\repos\ChatAsiakasUDP\KaikuAsiakas\bin\Debug\netcoreapp3.1\Chatasiakas.runtimeconfig.dev.json
+C:\Users\sampo\source\repos\ChatAsiakasUDP\KaikuAsiakas\bin\Debug\netcoreapp3.1\Chatasiakas.dll
+C:\Users\sampo\source\repos\ChatAsiakasUDP\KaikuAsiakas\bin\Debug\netcoreapp3.1\Chatasiakas.pdb
+C:\Users\sampo\source\repos\ChatAsiakasUDP\KaikuAsiakas\obj\Debug\netcoreapp3.1\Chatasiakas.dll
+C:\Users\sampo\source\repos\ChatAsiakasUDP\KaikuAsiakas\obj\Debug\netcoreapp3.1\Chatasiakas.pdb
+C:\Users\sampo\source\repos\ChatAsiakasUDP\KaikuAsiakas\obj\Debug\netcoreapp3.1\Chatasiakas.genruntimeconfig.cache
