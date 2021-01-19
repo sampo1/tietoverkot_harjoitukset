@@ -1,0 +1,13 @@
+C:\Users\sampo\source\repos\SMTPAsiakas\SMTPAsiakas\bin\Debug\netcoreapp3.1\SMTPAsiakas.exe
+C:\Users\sampo\source\repos\SMTPAsiakas\SMTPAsiakas\bin\Debug\netcoreapp3.1\SMTPAsiakas.deps.json
+C:\Users\sampo\source\repos\SMTPAsiakas\SMTPAsiakas\bin\Debug\netcoreapp3.1\SMTPAsiakas.runtimeconfig.json
+C:\Users\sampo\source\repos\SMTPAsiakas\SMTPAsiakas\bin\Debug\netcoreapp3.1\SMTPAsiakas.runtimeconfig.dev.json
+C:\Users\sampo\source\repos\SMTPAsiakas\SMTPAsiakas\bin\Debug\netcoreapp3.1\SMTPAsiakas.dll
+C:\Users\sampo\source\repos\SMTPAsiakas\SMTPAsiakas\bin\Debug\netcoreapp3.1\SMTPAsiakas.pdb
+C:\Users\sampo\source\repos\SMTPAsiakas\SMTPAsiakas\obj\Debug\netcoreapp3.1\SMTPAsiakas.csprojAssemblyReference.cache
+C:\Users\sampo\source\repos\SMTPAsiakas\SMTPAsiakas\obj\Debug\netcoreapp3.1\SMTPAsiakas.AssemblyInfoInputs.cache
+C:\Users\sampo\source\repos\SMTPAsiakas\SMTPAsiakas\obj\Debug\netcoreapp3.1\SMTPAsiakas.AssemblyInfo.cs
+C:\Users\sampo\source\repos\SMTPAsiakas\SMTPAsiakas\obj\Debug\netcoreapp3.1\SMTPAsiakas.csproj.CoreCompileInputs.cache
+C:\Users\sampo\source\repos\SMTPAsiakas\SMTPAsiakas\obj\Debug\netcoreapp3.1\SMTPAsiakas.dll
+C:\Users\sampo\source\repos\SMTPAsiakas\SMTPAsiakas\obj\Debug\netcoreapp3.1\SMTPAsiakas.pdb
+C:\Users\sampo\source\repos\SMTPAsiakas\SMTPAsiakas\obj\Debug\netcoreapp3.1\SMTPAsiakas.genruntimeconfig.cache
