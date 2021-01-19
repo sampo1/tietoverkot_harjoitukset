@@ -1,0 +1,13 @@
+C:\Users\sampo\source\repos\KaikuAsiakas\KaikuAsiakas\bin\Debug\netcoreapp3.1\KaikuAsiakas.exe
+C:\Users\sampo\source\repos\KaikuAsiakas\KaikuAsiakas\bin\Debug\netcoreapp3.1\KaikuAsiakas.deps.json
+C:\Users\sampo\source\repos\KaikuAsiakas\KaikuAsiakas\bin\Debug\netcoreapp3.1\KaikuAsiakas.runtimeconfig.json
+C:\Users\sampo\source\repos\KaikuAsiakas\KaikuAsiakas\bin\Debug\netcoreapp3.1\KaikuAsiakas.runtimeconfig.dev.json
+C:\Users\sampo\source\repos\KaikuAsiakas\KaikuAsiakas\bin\Debug\netcoreapp3.1\KaikuAsiakas.dll
+C:\Users\sampo\source\repos\KaikuAsiakas\KaikuAsiakas\bin\Debug\netcoreapp3.1\KaikuAsiakas.pdb
+C:\Users\sampo\source\repos\KaikuAsiakas\KaikuAsiakas\obj\Debug\netcoreapp3.1\KaikuAsiakas.csprojAssemblyReference.cache
+C:\Users\sampo\source\repos\KaikuAsiakas\KaikuAsiakas\obj\Debug\netcoreapp3.1\KaikuAsiakas.AssemblyInfoInputs.cache
+C:\Users\sampo\source\repos\KaikuAsiakas\KaikuAsiakas\obj\Debug\netcoreapp3.1\KaikuAsiakas.AssemblyInfo.cs
+C:\Users\sampo\source\repos\KaikuAsiakas\KaikuAsiakas\obj\Debug\netcoreapp3.1\KaikuAsiakas.csproj.CoreCompileInputs.cache
+C:\Users\sampo\source\repos\KaikuAsiakas\KaikuAsiakas\obj\Debug\netcoreapp3.1\KaikuAsiakas.dll
+C:\Users\sampo\source\repos\KaikuAsiakas\KaikuAsiakas\obj\Debug\netcoreapp3.1\KaikuAsiakas.pdb
+C:\Users\sampo\source\repos\KaikuAsiakas\KaikuAsiakas\obj\Debug\netcoreapp3.1\KaikuAsiakas.genruntimeconfig.cache
